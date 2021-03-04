@@ -1,7 +1,8 @@
-### Town of Squirrel wink 
+# Apache Beam Examples 
+## Town of Squirrel wink 
 
 
-## Imagine...
+### Imagine...
 ===========
 
 In the town of Squirrel wink there are 835 happy families of squirrels who travel daily 
@@ -23,14 +24,14 @@ Process tollbooth logs.
 Buckle up for the ride and you will learn everything you need to know for unleashing 
 the parallel processing of Apache Beam!
 
-## Toll Fee:
+### Toll Fee:
 =========
 $1.0 for 'cornsilk'
 $2.5 for 'slate_gray'
 $5.0 for 'navajo_white'
 
 
-## Inflated - Toll Fee:
+### Inflated - Toll Fee:
 ===================
 $2.0 for 'cornsilk'
 $3.5 for 'slate_gray'
