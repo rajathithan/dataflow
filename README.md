@@ -26,13 +26,13 @@ the parallel processing of Apache Beam!
 
 ### Toll Fee:
 =========
-$1.0 for 'cornsilk'
-$2.5 for 'slate_gray'
-$5.0 for 'navajo_white'
+> $1.0 for 'cornsilk'
+> $2.5 for 'slate_gray'
+> $5.0 for 'navajo_white'
 
 
 ### Inflated - Toll Fee:
 ===================
-$2.0 for 'cornsilk'
-$3.5 for 'slate_gray'
-$7.0 for 'navajo_white'
+> $2.0 for 'cornsilk'
+> $3.5 for 'slate_gray'
+> $7.0 for 'navajo_white'
