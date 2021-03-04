@@ -1,10 +1,10 @@
-### Town of Squirreliwink 
+### Town of Squirrel wink 
 
 
 ## Imagine...
 ===========
 
-In the town of Squirreliwink there are 835 happy families of squirrels who travel daily 
+In the town of Squirrel wink there are 835 happy families of squirrels who travel daily 
 to a neighboring forest to collect nuts.
 On their journey back to town they pay a toll by the color of their nuts.
 There are 3 nut colors: Cornsilk, Slate Gray, Navajo White.
